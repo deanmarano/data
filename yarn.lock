@@ -2525,10 +2525,10 @@
   resolved "https://registry.npmjs.org/@types/ember__template/-/ember__template-3.16.1.tgz#30d7f50a49b190934db0f5a56dd76ad86c21efc6"
   integrity sha512-APQINizzizl2LHWGMFBCanRjKZQsdzqn7b+us17zbNhnx/R0IZAJq901x/i7eozCRwxsDKmGzNABSCIu6uc1Tg==
 
-"@types/ember__test-helpers@~0.7.9":
-  version "0.7.12"
-  resolved "https://registry.npmjs.org/@types/ember__test-helpers/-/ember__test-helpers-0.7.12.tgz#53bcf5fcf6e77732dd286cba3782a6a965a0dace"
-  integrity sha512-9GD0uTCGIXBU3OT4OoaLPMgwXK+EMMnLDvGE+Pt8wgYLIoPYmqoPNLrEbNlN2M52ZvODsFeOUPkJsup+fbFpIg==
+"@types/ember__test-helpers@~2.0.0":
+  version "2.0.0"
+  resolved "https://registry.npmjs.org/@types/ember__test-helpers/-/ember__test-helpers-2.0.0.tgz#b4b8323693789670720f55a51b1f8e6cd6bfbe29"
+  integrity sha512-2FyfVCb0W2OJ2OeZmg5QxLk0K7n5BCsEU8D481y7XNEVkzyQGR3U64umVf0eME/tpW3papAZ+JwS01HtGOSbgA==
   dependencies:
     "@types/ember" "*"
     "@types/ember__application" "*"
@@ -7790,8 +7790,7 @@ eslint-module-utils@^2.6.0:
     pkg-dir "^2.0.0"
 
 "eslint-plugin-ember-data@link:./packages/unpublished-eslint-rules":
-  version "0.0.0"
-  uid ""
+  version "3.28.0-alpha.0"
 
 eslint-plugin-ember@^8.5.1:
   version "8.14.0"
